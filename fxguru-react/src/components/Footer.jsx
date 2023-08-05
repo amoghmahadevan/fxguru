@@ -1,5 +1,5 @@
 import React from 'react';
-import gitlogo from '/Users/amoghmahadevan/fxguru/fxguru-react/src/github-logo.png'
+import gitlogo from '../github-logo.png'
 function Footer() {
   return (
     <div id = "footer" className = "footerlink"> 
