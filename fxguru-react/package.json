@@ -1,7 +1,6 @@
 {
   "name": "fxguru",
   "version": "0.1.0",
-  "homepage": "https://amoghmahadevan.github.io/fxguru-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
