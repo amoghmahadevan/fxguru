@@ -1,0 +1,10 @@
+Requirements to run on local machine: 
+
+Dnspython - 2.2.1
+Pandas - 1.3.5
+Pymongo - 4.1.0
+Requests - 2.27.1
+Plotly - 5.7.0
+Jupyter - 1.0.0
+Flask - 2.1.1
+Flask-CORS - 3.0.10
